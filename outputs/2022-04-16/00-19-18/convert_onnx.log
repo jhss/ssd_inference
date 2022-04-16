@@ -1,0 +1,3 @@
+[2022-04-16 00:19:18,390][__main__][INFO] - Loading pre-trained model from: C:\Users\user\PycharmProjects\ssd_inference/models/mb2-ssd-lite-mp-0_686.pth
+[2022-04-16 00:19:18,559][root][INFO] - No labels file, using default VOC classes.
+[2022-04-16 00:19:18,581][__main__][INFO] - Converting the model into ONNX format

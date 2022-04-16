@@ -1,0 +1,9 @@
+model:
+  name: mb2-ssd-lite-mp-0_686.pth
+  mb2_width_mult: 1.0
+data:
+  label_path: voc-model-labels.txt
+  data_path: C:/Users/user/Documents/Projects/pytorch-ssd/data/VOC0712/test/VOC2007/
+  size: '300'
+  mean: '127'
+  std: '128'
