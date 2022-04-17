@@ -1,3 +1,5 @@
+## Build a single shot detection server with AWS Lambda and API gateway.
+
 This repository contains the code that inferences single shot detection with open source pre-trained model.
 
 ## Architecture
