@@ -1,6 +1,6 @@
 ## Build a single shot detection server with AWS Lambda and API gateway.
 
-This repository contains the code that inferences single shot detection with open source pre-trained model.
+This repository contains the code that inferences single shot detection with open source pre-trained model. I used pre-trained model from https://github.com/qfgaohao/pytorch-ssd, converted the model to onnx, and built a docker image.
 
 ## Architecture
 ![alt text](./imgs/mlops.PNG)
